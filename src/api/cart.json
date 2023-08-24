@@ -1,0 +1,214 @@
+{
+  "cart": [
+    {
+      "custId": "1",
+      "productName": "hujiko",
+      "quantity": "12",
+      "id": 1
+    },
+    {
+      "custId": "1",
+      "productName": "type",
+      "quantity": "1",
+      "id": 2
+    },
+    {
+      "custId": "2",
+      "productName": "type",
+      "quantity": "123",
+      "id": 3
+    },
+    {
+      "custId": "3",
+      "productName": "hujiko",
+      "quantity": "12",
+      "id": 4
+    },
+    {
+      "custId": "3",
+      "productName": "type",
+      "quantity": "123",
+      "id": 5
+    },
+    {
+      "custId": "3",
+      "productName": "type",
+      "quantity": "45",
+      "id": 6
+    },
+    {
+      "custId": "4",
+      "productName": "type",
+      "quantity": "56",
+      "id": 7
+    },
+    {
+      "custId": "5",
+      "productName": "hujiko",
+      "quantity": "3",
+      "id": 8
+    },
+    {
+      "custId": "6",
+      "productName": "hujiko",
+      "quantity": "12",
+      "id": 9
+    },
+    {
+      "custId": "7",
+      "productName": "hujiko",
+      "quantity": "12",
+      "id": 10
+    },
+    {
+      "custId": "8",
+      "productName": "kajal",
+      "quantity": "3",
+      "id": 11
+    },
+    {
+      "custId": "8",
+      "productName": "tomato",
+      "quantity": "8",
+      "id": 12
+    },
+    {
+      "custId": "9",
+      "productName": "tomato",
+      "quantity": "8",
+      "id": 13
+    },
+    {
+      "custId": "9",
+      "productName": "tomato",
+      "quantity": "9",
+      "id": 14
+    },
+    {
+      "custId": "18",
+      "productName": "tomato",
+      "quantity": "1",
+      "id": 15
+    },
+    {
+      "custId": "19",
+      "productName": "tomato",
+      "quantity": "2",
+      "id": 16
+    },
+    {
+      "custId": "20",
+      "productName": "tomato",
+      "quantity": "1",
+      "id": 17
+    },
+    {
+      "custId": "21",
+      "productName": "Lipstick red colour",
+      "quantity": "1",
+      "id": 18
+    },
+    {
+      "custId": "22",
+      "productName": "tomato",
+      "quantity": "12",
+      "id": 19
+    },
+    {
+      "custId": "23",
+      "productName": "tomato",
+      "quantity": "1",
+      "id": 20
+    },
+    {
+      "custId": "24",
+      "productName": "tomato",
+      "quantity": "1",
+      "id": 21
+    },
+    {
+      "custId": "25",
+      "productName": "Lipstick red colour",
+      "quantity": "12",
+      "id": 22
+    },
+    {
+      "custId": "26",
+      "productName": "tomato",
+      "quantity": "1",
+      "id": 23
+    },
+    {
+      "custId": "27",
+      "productName": "Lipstick red colour",
+      "quantity": "1",
+      "id": 24
+    },
+    {
+      "custId": "28",
+      "productName": "Lipstick red colour",
+      "quantity": "12",
+      "id": 25
+    },
+    {
+      "custId": "30",
+      "productName": "kajuuu -  1kg",
+      "quantity": "2",
+      "id": 26
+    },
+    {
+      "custId": "30",
+      "productName": "badham",
+      "quantity": "1",
+      "id": 27
+    },
+    {
+      "custId": "31",
+      "productName": "kajuuu -  1kg",
+      "quantity": "2",
+      "id": 28
+    },
+    {
+      "custId": "31",
+      "productName": "badham",
+      "quantity": "2",
+      "id": 29
+    },
+    {
+      "custId": "32",
+      "productName": "tomato",
+      "quantity": "1",
+      "id": 30
+    },
+    {
+      "custId": "32",
+      "productName": "potato - 1kg",
+      "quantity": "1",
+      "id": 31
+    },
+    {
+      "custId": "33",
+      "productName": "kajuuu -  1kg",
+      "quantity": "10",
+      "id": 32
+    },
+    {
+      "custId": "34",
+      "productName": "tomato",
+      "quantity": "1",
+      "id": 33
+    },
+    {
+      "custId": "35",
+      "productName": "Lipstick",
+      "quantity": "2",
+      "id": 34
+    },
+    {
+      "custId": "36",
+      "productName": "Beauty",
+      "quantity": "1",
+      "id": 35
+    }
+  ]
+}

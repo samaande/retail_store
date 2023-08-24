@@ -1,0 +1,134 @@
+{
+  "products": [
+    {
+      "productType": "Vegetables",
+      "productCode": "1234",
+      "productName": "tomato",
+      "cost": "50",
+      "manufactureDate": "2023-08-04",
+      "expiryDate": "2023-08-30",
+      "description": "desi tomato",
+      "id": 1
+    },
+    {
+      "productType": "Beauty",
+      "productCode": "1005g",
+      "productName": "Lipstick",
+      "cost": "500",
+      "manufactureDate": "2023-08-22",
+      "expiryDate": "2023-12-30",
+      "description": "buy one get 1 free",
+      "id": 3
+    },
+    {
+      "productType": "Vegetables",
+      "productCode": "1008g",
+      "productName": "potato - 1kg",
+      "cost": "10",
+      "manufactureDate": "2023-08-22",
+      "expiryDate": "2023-09-01",
+      "description": "potato tinnandi potta nippukondi",
+      "id": 5
+    },
+    {
+      "productType": "Dry Fruits",
+      "productCode": "1006g",
+      "productName": "kajuuu -  1kg",
+      "cost": "300",
+      "manufactureDate": "2023-08-22",
+      "expiryDate": "2023-08-30",
+      "description": "kajuuu tintava kajal",
+      "id": 6
+    },
+    {
+      "productType": "Dry Fruits",
+      "productCode": "1002h",
+      "productName": "badham",
+      "cost": "100",
+      "manufactureDate": "2023-08-22",
+      "expiryDate": "2023-09-01",
+      "description": "badham tinnandi bajoondi",
+      "id": 7
+    },
+    {
+      "productType": "Electronics",
+      "productCode": "100g",
+      "productName": "Tv",
+      "cost": "1200000",
+      "manufactureDate": "2023-08-01",
+      "expiryDate": "2026-12-25",
+      "description": "tvv see big boss",
+      "id": 8
+    },
+    {
+      "productType": "Stationary",
+      "productCode": "23",
+      "productName": "Note Book",
+      "cost": "12",
+      "manufactureDate": null,
+      "expiryDate": null,
+      "description": "NOTE BOOK",
+      "id": 9
+    },
+    {
+      "productType": "Vegetables",
+      "productCode": "12ES",
+      "productName": "Tomato",
+      "cost": "12",
+      "manufactureDate": null,
+      "expiryDate": null,
+      "description": "Tamoto",
+      "id": 10
+    },
+    {
+      "productType": "Stationary",
+      "productCode": "12QA",
+      "productName": "Pens",
+      "cost": "12",
+      "manufactureDate": null,
+      "expiryDate": null,
+      "description": "Pen",
+      "id": 11
+    },
+    {
+      "productType": "Stationary",
+      "productCode": "34",
+      "productName": "Pens",
+      "cost": "12",
+      "manufactureDate": null,
+      "expiryDate": null,
+      "description": "Pen",
+      "id": 12
+    },
+    {
+      "productType": "Stationary",
+      "productCode": "12ws",
+      "productName": "Pens",
+      "cost": "12",
+      "manufactureDate": null,
+      "expiryDate": null,
+      "description": "Pen",
+      "id": 13
+    },
+    {
+      "productType": "Vegetables",
+      "productCode": "12w",
+      "productName": "Vegetables",
+      "cost": "wsed",
+      "manufactureDate": null,
+      "expiryDate": null,
+      "description": "we",
+      "id": 14
+    },
+    {
+      "productType": "Vegetables",
+      "productCode": "12qa",
+      "productName": "Tomato",
+      "cost": "wse",
+      "manufactureDate": null,
+      "expiryDate": null,
+      "description": "ws",
+      "id": 15
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+.sidebar {
+  height: 900px;
+  width: 350px;
+  top: 0;
+  left: 0;
+  position: fixed;
+  background-color:rgba(110, 118, 114, 0.737);
+  margin-top: 0px;
+  
+  overflow-y: auto;
+}
+.sidebar::-webkit-scrollbar {
+width: 0;
+background-color: #e9e5da;
+}
+
+.sidebar::-webkit-scrollbar-thumb {
+background-color: #c1c1c1;
+}
+.parent-container{
+  position: sticky;
+}
+.header {
+  background-color: rgb(221, 166, 203);
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+  
+}
+.image {
+  margin-top: 50px;
+  max-width: 100%;
+  text-align: center;
+  margin-left: 400px;
+  width: 70%; /* Set to 100% to ensure the image takes the full width */
+}
+
+.image img {
+  width: 100%; /* Make the image take the full width */
+  max-width: 100%; /* Ensure the image doesn't exceed the viewport width */
+  max-height: 100vh; /* Limit the image height to the viewport height */
+  display: block;
+  margin: 0 auto; /* Center the image horizontally */
+}
+.links{
+  text-decoration: none;
+  color: white;
+}

@@ -1,0 +1,246 @@
+{
+  "customer": [
+    {
+      "date": "21-08-2023 06:25 PM",
+      "cashier": "ande@gmail.com",
+      "name": "samaikya",
+      "phonenumber": "1234567890",
+      "id": 1
+    },
+    {
+      "date": "21-08-2023 06:41 PM",
+      "cashier": "ande@gmail.com",
+      "name": "sushma",
+      "phonenumber": "0987654321",
+      "id": 2
+    },
+    {
+      "date": "21-08-2023 06:52 PM",
+      "cashier": "ande@gmail.com",
+      "name": "hasrha",
+      "phonenumber": "0987654321",
+      "id": 3
+    },
+    {
+      "date": "21-08-2023 08:33 PM",
+      "cashier": "ande@gmail.com",
+      "name": "sama",
+      "phonenumber": "1234567890",
+      "id": 4
+    },
+    {
+      "date": "21-08-2023 08:36 PM",
+      "cashier": "ande@gmail.com",
+      "name": "vashi",
+      "phonenumber": "0987654321",
+      "id": 5
+    },
+    {
+      "date": "22-08-2023 10:37 AM",
+      "cashier": "ande@gmail.com",
+      "name": "chaitanya",
+      "phonenumber": "1234567890",
+      "id": 6
+    },
+    {
+      "date": "22-08-2023 12:31 PM",
+      "cashier": "ande@gmail.com",
+      "name": "sama",
+      "phonenumber": "1234567890",
+      "id": 7
+    },
+    {
+      "date": "22-08-2023 12:47 PM",
+      "cashier": "sushma@gmail.com",
+      "name": "Ritesh",
+      "phonenumber": "9381468567",
+      "id": 8
+    },
+    {
+      "date": "22-08-2023 02:18 PM",
+      "cashier": "sushma@gmail.com",
+      "name": "ravi",
+      "phonenumber": "9440376784",
+      "id": 9
+    },
+    {
+      "date": "22-08-2023 02:21 PM",
+      "cashier": "sushma@gmail.com",
+      "name": "fghj",
+      "phonenumber": "345678",
+      "id": 10
+    },
+    {
+      "date": "22-08-2023 02:21 PM",
+      "cashier": "sushma@gmail.com",
+      "name": "234567",
+      "phonenumber": "werty",
+      "id": 11
+    },
+    {
+      "date": "22-08-2023 02:22 PM",
+      "cashier": "sushma@gmail.com",
+      "name": "cvb",
+      "phonenumber": "5665",
+      "id": 12
+    },
+    {
+      "date": "22-08-2023 02:27 PM",
+      "cashier": "sushma@gmail.com",
+      "name": "sama",
+      "phonenumber": "123",
+      "id": 13
+    },
+    {
+      "date": "22-08-2023 02:39 PM",
+      "cashier": "sushma@gmail.com",
+      "name": "sam1",
+      "phonenumber": "21",
+      "id": 14
+    },
+    {
+      "date": "22-08-2023 02:42 PM",
+      "name": "sama",
+      "phonenumber": "1234567890",
+      "id": 15
+    },
+    {
+      "date": "22-08-2023 02:43 PM",
+      "name": "sama",
+      "phonenumber": "1233456789",
+      "id": 16
+    },
+    {
+      "date": "22-08-2023 03:05 PM",
+      "name": "srinu",
+      "phonenumber": "9123456764",
+      "id": 17
+    },
+    {
+      "date": "22-08-2023 03:33 PM",
+      "name": "dfghjkml",
+      "phonenumber": "9381345678",
+      "id": 18
+    },
+    {
+      "date": "22-08-2023 03:52 PM",
+      "name": "xdfcgvhbjk",
+      "phonenumber": "8654312345",
+      "id": 19
+    },
+    {
+      "date": "22-08-2023 04:01 PM",
+      "name": "dcfvghb",
+      "phonenumber": "9876543456",
+      "id": 20
+    },
+    {
+      "date": "22-08-2023 04:01 PM",
+      "name": "cvbn",
+      "phonenumber": "9876542456",
+      "id": 21
+    },
+    {
+      "date": "22-08-2023 04:09 PM",
+      "name": "cvbn",
+      "phonenumber": "9123458754",
+      "id": 22
+    },
+    {
+      "date": "22-08-2023 04:22 PM",
+      "name": "cvbn",
+      "phonenumber": "8345612346",
+      "id": 23
+    },
+    {
+      "date": "22-08-2023 04:25 PM",
+      "name": "nbhgvfcd",
+      "phonenumber": "8654334567",
+      "id": 24
+    },
+    {
+      "date": "22-08-2023 04:27 PM",
+      "name": "mnbv",
+      "phonenumber": "8754345678",
+      "id": 25
+    },
+    {
+      "date": "22-08-2023 07:51 PM",
+      "name": "sasa",
+      "phonenumber": "9123456787",
+      "id": 26
+    },
+    {
+      "date": "22-08-2023 07:58 PM",
+      "name": "samaaa",
+      "phonenumber": "9876543210",
+      "id": 27
+    },
+    {
+      "date": "22-08-2023 08:00 PM",
+      "name": "moni",
+      "phonenumber": "9876543210",
+      "id": 28
+    },
+    {
+      "date": "22-08-2023 08:05 PM",
+      "name": "asdlfsdkjhg",
+      "phonenumber": "8234562345",
+      "id": 29
+    },
+    {
+      "date": "22-08-2023 08:09 PM",
+      "name": "Prashanth",
+      "phonenumber": "6789344521",
+      "id": 30
+    },
+    {
+      "date": "22-08-2023 08:10 PM",
+      "name": "Prashanth",
+      "phonenumber": "8234762373",
+      "id": 31
+    },
+    {
+      "date": "22-08-2023 08:18 PM",
+      "cashier": "sushma@gmail.com",
+      "name": "Prashanth",
+      "phonenumber": "8234561234",
+      "id": 32
+    },
+    {
+      "date": "22-08-2023 08:29 PM",
+      "cashier": "sushma@gmail.com",
+      "name": "Rahul",
+      "phonenumber": "8234567456",
+      "id": 33
+    },
+    {
+      "date": "23-08-2023 11:41 AM",
+      "cashier": null,
+      "name": "navya",
+      "phonenumber": "9345677654",
+      "id": 34
+    },
+    {
+      "date": "24-08-2023 02:32 PM",
+      "cashier": "ande@gmail.com",
+      "name": "sama",
+      "phonenumber": "9876543210",
+      "id": 35
+    },
+    {
+      "date": "24-08-2023 02:35 PM",
+      "cashier": "ande@gmail.com",
+      "name": "samma",
+      "phonenumber": "9087654321",
+      "id": 36
+    },
+    {
+      "date": "24-08-2023 04:09 PM",
+      "cashier": null,
+      "name": "sai sree",
+      "phonenumber": "9543234587",
+      "id": 37
+    }
+  ]
+}

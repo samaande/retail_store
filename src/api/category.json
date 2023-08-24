@@ -1,0 +1,24 @@
+{
+  "category": [
+    {
+      "productType": "Stationary",
+      "description": "Stationary items",
+      "id": 1
+    },
+    {
+      "productType": "Vegetables",
+      "description": "Fresh vegetables...",
+      "id": 3
+    },
+    {
+      "productType": "Beauty",
+      "description": "Make your self beautiful",
+      "id": 4
+    },
+    {
+      "productType": "Dry Fruits",
+      "description": "Healthy Dry fruits",
+      "id": 5
+    }
+  ]
+}

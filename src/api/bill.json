@@ -1,0 +1,77 @@
+{
+  "Bill": [
+    {
+      "cartDetails": [
+        {
+          "custId": "32",
+          "productId": 30,
+          "productName": "tomato",
+          "costPerItem": "50",
+          "quantity": "1",
+          "totalCost": 71
+        },
+        {
+          "custId": "32",
+          "productId": 31,
+          "productName": "potato - 1kg",
+          "costPerItem": "10",
+          "quantity": "1",
+          "totalCost": 71
+        }
+      ],
+      "id": 1
+    },
+    {
+      "cartDetails": [
+        {
+          "custId": "33",
+          "productId": 32,
+          "productName": "kajuuu -  1kg",
+          "costPerItem": "300",
+          "quantity": "10",
+          "totalCost": 3540
+        }
+      ],
+      "id": 2
+    },
+    {
+      "cartDetails": [
+        {
+          "custId": "34",
+          "productId": 33,
+          "productName": "tomato",
+          "costPerItem": "50",
+          "quantity": "1",
+          "totalCost": 59
+        }
+      ],
+      "id": 3
+    },
+    {
+      "cartDetails": [
+        {
+          "custId": "35",
+          "productId": 34,
+          "productName": "Lipstick",
+          "costPerItem": "500",
+          "quantity": "2",
+          "totalCost": 1180
+        }
+      ],
+      "id": 4
+    },
+    {
+      "cartDetails": [
+        {
+          "custId": "36",
+          "productId": 35,
+          "productName": "Beauty",
+          "costPerItem": "133",
+          "quantity": "1",
+          "totalCost": 157
+        }
+      ],
+      "id": 5
+    }
+  ]
+}
